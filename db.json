@@ -1,0 +1,67 @@
+{
+    "requests": [
+      {
+        "id": 1,
+        "name": "Иван Фролов",
+        "phone": "+420772551797",
+        "email": "frolov@gmail.com",
+        "course": "course-js",
+        "status": "new",
+        "date": "2024-01-22T10:10:36.213Z"
+      },
+      {
+        "id": 2,
+        "name": "Елена Иванова",
+        "phone": "+375334526732",
+        "email": "ivanova@seznam.cz",
+        "course": "course-js",
+        "status": "new",
+        "date": "2024-01-22T10:10:36.213Z"
+      },
+      {
+        "id": 3,
+        "name": "Валентин Козлюк",
+        "phone": "+375299876132",
+        "email": "kozluk@seznam.cz",
+        "course": "course-vue",
+        "status": "complete",
+        "date": "2024-01-22T10:10:36.213Z"
+      },
+      {
+        "name": "Василий Пупкин",
+        "phone": "+420776555787",
+        "email": "pupkin@mail.ru",
+        "course": "course-js",
+        "status": "inwork",
+        "date": "2024-01-22T10:10:36.213Z",
+        "id": 4
+      },
+      {
+        "name": "Роман Веселый",
+        "phone": "+420779554747",
+        "email": "vesely@seznam.cz",
+        "course": "course-html",
+        "status": "new",
+        "date": "2024-01-22T10:20:43.117Z",
+        "id": 5
+      },
+      {
+        "name": "Светлана Козырь",
+        "phone": "+420773555727",
+        "email": "kozyr@seznam.cz",
+        "course": "course-wordpress",
+        "status": "new",
+        "date": "2024-01-22T10:20:47.365Z",
+        "id": 6
+      },
+      {
+        "name": "Роман Веселый",
+        "phone": "+420779554747",
+        "email": "vesely@seznam.cz",
+        "course": "course-php",
+        "status": "inwork",
+        "date": "2024-01-22T10:20:50.381Z",
+        "id": 7
+      }
+    ]
+  }
